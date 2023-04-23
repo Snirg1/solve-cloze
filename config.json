@@ -1,0 +1,6 @@
+{
+  "input_filename":  "data/document.cloze.txt",
+  "candidates_filename": "data/candidate.words.txt",
+  "lexicon_filename": "data/lexicon.txt",
+  "corpus": "data/en.wikipedia2018.10M.txt"
+}
